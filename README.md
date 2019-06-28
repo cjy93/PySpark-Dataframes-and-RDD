@@ -24,6 +24,7 @@ This basic requirement is to use [1903.json](https://github.com/cjy93/PySpark-Da
 
 All the basic and **bonus** codes for PySpark dataframes are at [link](https://github.com/cjy93/PySpark-Dataframes-and-RDD/tree/master/DataFrames). Other than getting the top
 20 unsold Private properties, i also gathered other datasets through PySpark Dataframe way before putting into DASH to create the following visualisations.  
-The Dash App codes are in this folder: [Dash Apps](https://github.com/cjy93/PySpark-Dataframes-and-RDD/tree/master/DataFrames/createdData)
+The Dash App codes are in this folder: [Dash Apps](https://github.com/cjy93/PySpark-Dataframes-and-RDD/tree/master/DataFrames/createdData)  
+
 Click on the youtube link for my apps visualisation.  
 [![link to my youtube video](http://img.youtube.com/vi/gXq5b1p1sso/0.jpg)](http://www.youtube.com/watch?v=gXq5b1p1sso)
