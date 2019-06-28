@@ -27,4 +27,10 @@ All the basic and **bonus** codes for PySpark dataframes are at [link](https://g
 The Dash App codes are in this folder: [Dash Apps](https://github.com/cjy93/PySpark-Dataframes-and-RDD/tree/master/DataFrames/createdData)  
 
 Click on the youtube link for my apps visualisation.  
-[![link to my youtube video](http://img.youtube.com/vi/gXq5b1p1sso/0.jpg)](http://www.youtube.com/watch?v=gXq5b1p1sso)
+[![link to my youtube video](http://img.youtube.com/vi/gXq5b1p1sso/0.jpg)](http://www.youtube.com/watch?v=gXq5b1p1sso)  
+
+Pictures of the 4 apps as follows:
+![app 1](https://github.com/cjy93/PySpark-Dataframes-and-RDD/blob/master/DataFrames/createdData/app1.PNG)  
+![app 2](https://github.com/cjy93/PySpark-Dataframes-and-RDD/blob/master/DataFrames/createdData/app2.PNG)  
+![app 3](https://github.com/cjy93/PySpark-Dataframes-and-RDD/blob/master/DataFrames/createdData/app3.PNG)  
+![app 4](https://github.com/cjy93/PySpark-Dataframes-and-RDD/blob/master/DataFrames/createdData/app4.PNG)
