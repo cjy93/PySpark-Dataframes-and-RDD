@@ -1,0 +1,2884 @@
+{
+  "Result": [
+    {
+      "project": "CAYMAN RESIDENCES",
+      "propertyType": "Landed",
+      "marketSegment": "OCR",
+      "developer": "Pinnacle Homes (East Coast) Pte Ltd",
+      "street": "EAST COAST AVENUE",
+      "developerSales": [
+        {
+          "highestPrice": 0,
+          "soldToDate": 9,
+          "unitsAvail": 19,
+          "medianPrice": 0,
+          "soldInMonth": 0,
+          "launchedToDate": 19,
+          "lowestPrice": 0,
+          "refPeriod": "0319",
+          "launchedInMonth": 0
+        }
+      ],
+      "district": "15"
+    },
+    {
+      "project": "GRANDEUR PARK RESIDENCES",
+      "propertyType": "Non-Landed",
+      "marketSegment": "OCR",
+      "developer": "CEL-Changi Pte Ltd",
+      "street": "BEDOK SOUTH AVENUE 3",
+      "developerSales": [
+        {
+          "highestPrice": 0,
+          "soldToDate": 699,
+          "unitsAvail": 720,
+          "medianPrice": 0,
+          "soldInMonth": 0,
+          "launchedToDate": 720,
+          "lowestPrice": 0,
+          "refPeriod": "0319",
+          "launchedInMonth": 0
+        }
+      ],
+      "district": "16"
+    },
+    {
+      "project": "THE FLORENCE RESIDENCES",
+      "propertyType": "Non-Landed",
+      "marketSegment": "OCR",
+      "developer": "Florence Development Pte Ltd",
+      "street": "HOUGANG AVENUE 2",
+      "developerSales": [
+        {
+          "highestPrice": 1614,
+          "soldToDate": 77,
+          "unitsAvail": 1410,
+          "medianPrice": 1434,
+          "soldInMonth": 77,
+          "launchedToDate": 200,
+          "lowestPrice": 1281,
+          "refPeriod": "0319",
+          "launchedInMonth": 200
+        }
+      ],
+      "district": "19"
+    },
+    {
+      "project": "THE CLEMENT CANOPY",
+      "propertyType": "Non-Landed",
+      "marketSegment": "OCR",
+      "developer": "United Venture Development (Clementi) Pte Ltd",
+      "street": "CLEMENTI AVENUE 1",
+      "developerSales": [
+        {
+          "highestPrice": 1455,
+          "soldToDate": 505,
+          "unitsAvail": 505,
+          "medianPrice": 1455,
+          "soldInMonth": 1,
+          "launchedToDate": 505,
+          "lowestPrice": 1455,
+          "refPeriod": "0319",
+          "launchedInMonth": 0
+        }
+      ],
+      "district": "05"
+    },
+    {
+      "project": "COASTLINE RESIDENCES",
+      "propertyType": "Non-Landed",
+      "marketSegment": "RCR",
+      "developer": "SL Capital (3) Pte Ltd",
+      "street": "AMBER ROAD",
+      "developerSales": [
+        {
+          "highestPrice": 0,
+          "soldToDate": 0,
+          "unitsAvail": 144,
+          "medianPrice": 0,
+          "soldInMonth": 0,
+          "launchedToDate": 0,
+          "lowestPrice": 0,
+          "refPeriod": "0319",
+          "launchedInMonth": 0
+        }
+      ],
+      "district": "15"
+    },
+    {
+      "project": "REZI 24",
+      "propertyType": "Non-Landed",
+      "marketSegment": "RCR",
+      "developer": "Development 24 Pte Ltd",
+      "street": "LORONG 24 GEYLANG",
+      "developerSales": [
+        {
+          "highestPrice": 1517,
+          "soldToDate": 4,
+          "unitsAvail": 110,
+          "medianPrice": 1482,
+          "soldInMonth": 4,
+          "launchedToDate": 110,
+          "lowestPrice": 1472,
+          "refPeriod": "0319",
+          "launchedInMonth": 110
+        }
+      ],
+      "district": "14",
+      "y": "32664.62806039",
+      "x": "33602.495309689997"
+    },
+    {
+      "project": "THE GREEN COLLECTION",
+      "propertyType": "Strata-Landed",
+      "marketSegment": "CCR",
+      "developer": "Green Collection Pte Ltd",
+      "street": "COVE DRIVE",
+      "developerSales": [
+        {
+          "highestPrice": 0,
+          "soldToDate": 0,
+          "unitsAvail": 20,
+          "medianPrice": 0,
+          "soldInMonth": 0,
+          "launchedToDate": 0,
+          "lowestPrice": 0,
+          "refPeriod": "0319",
+          "launchedInMonth": 0
+        }
+      ],
+      "district": "04",
+      "y": "25043.2169",
+      "x": "28269.0311"
+    },
+    {
+      "project": "SEASIDE RESIDENCES",
+      "propertyType": "Non-Landed",
+      "marketSegment": "OCR",
+      "developer": "East Vue Pte Ltd",
+      "street": "SIGLAP LINK",
+      "developerSales": [
+        {
+          "highestPrice": 2003,
+          "soldToDate": 738,
+          "unitsAvail": 841,
+          "medianPrice": 1979,
+          "soldInMonth": 3,
+          "launchedToDate": 841,
+          "lowestPrice": 1897,
+          "refPeriod": "0319",
+          "launchedInMonth": 0
+        }
+      ],
+      "district": "15"
+    },
+    {
+      "project": "ARTRA",
+      "propertyType": "Non-Landed",
+      "marketSegment": "RCR",
+      "developer": "FEC Skyline Pte Ltd",
+      "street": "ALEXANDRA VIEW",
+      "developerSales": [
+        {
+          "highestPrice": 2107,
+          "soldToDate": 318,
+          "unitsAvail": 400,
+          "medianPrice": 1918,
+          "soldInMonth": 2,
+          "launchedToDate": 400,
+          "lowestPrice": 1728,
+          "refPeriod": "0319",
+          "launchedInMonth": 0
+        }
+      ],
+      "district": "03"
+    },
+    {
+      "project": "MARTIN MODERN",
+      "propertyType": "Non-Landed",
+      "marketSegment": "CCR",
+      "developer": "Martin Modern Pte Ltd",
+      "street": "MARTIN PLACE",
+      "developerSales": [
+        {
+          "highestPrice": 2847,
+          "soldToDate": 316,
+          "unitsAvail": 450,
+          "medianPrice": 2676,
+          "soldInMonth": 7,
+          "launchedToDate": 345,
+          "lowestPrice": 2560,
+          "refPeriod": "0319",
+          "launchedInMonth": 0
+        }
+      ],
+      "district": "09"
+    },
+    {
+      "project": "HILLSGROVE",
+      "propertyType": "Strata-Landed",
+      "marketSegment": "OCR",
+      "developer": "Sun Fong Realty Pte Ltd",
+      "street": "HILLSIDE DRIVE",
+      "developerSales": [
+        {
+          "highestPrice": 0,
+          "soldToDate": 5,
+          "unitsAvail": 12,
+          "medianPrice": 0,
+          "soldInMonth": 0,
+          "launchedToDate": 12,
+          "lowestPrice": 0,
+          "refPeriod": "0319",
+          "launchedInMonth": 0
+        }
+      ],
+      "district": "19",
+      "y": "37539.0461",
+      "x": "33072.201"
+    },
+    {
+      "project": "DUO RESIDENCES",
+      "propertyType": "Non-Landed",
+      "marketSegment": "CCR",
+      "developer": "Ophir-Rochor Residential Pte Ltd",
+      "street": "FRASER STREET",
+      "developerSales": [
+        {
+          "highestPrice": 0,
+          "soldToDate": 657,
+          "unitsAvail": 660,
+          "medianPrice": 0,
+          "soldInMonth": 0,
+          "launchedToDate": 660,
+          "lowestPrice": 0,
+          "refPeriod": "0319",
+          "launchedInMonth": 0
+        }
+      ],
+      "district": "07",
+      "y": "31272.5428",
+      "x": "30739.4759"
+    },
+    {
+      "project": "TREASURE CREST",
+      "propertyType": "Exec Condo",
+      "marketSegment": "OCR",
+      "developer": "Sim Lian (Anchorvale) Pte Ltd",
+      "street": "ANCHORVALE CRESCENT",
+      "developerSales": [
+        {
+          "highestPrice": 1043,
+          "soldToDate": 503,
+          "unitsAvail": 504,
+          "medianPrice": 1019,
+          "soldInMonth": 2,
+          "launchedToDate": 504,
+          "lowestPrice": 995,
+          "refPeriod": "0319",
+          "launchedInMonth": 0
+        }
+      ],
+      "district": "19",
+      "y": "42204.9502",
+      "x": "34638.4235"
+    },
+    {
+      "project": "ROOTS @ TRANSIT",
+      "propertyType": "Non-Landed",
+      "marketSegment": "OCR",
+      "developer": "Soonbee Investment Holdings Pte Ltd",
+      "street": "TRANSIT ROAD",
+      "developerSales": [
+        {
+          "highestPrice": 0,
+          "soldToDate": 0,
+          "unitsAvail": 31,
+          "medianPrice": 0,
+          "soldInMonth": 0,
+          "launchedToDate": 0,
+          "lowestPrice": 0,
+          "refPeriod": "0319",
+          "launchedInMonth": 0
+        }
+      ],
+      "district": "26"
+    },
+    {
+      "project": "REZI 35",
+      "propertyType": "Non-Landed",
+      "marketSegment": "RCR",
+      "developer": "Development 35 Pte Ltd",
+      "street": "LORONG 35 GEYLANG",
+      "developerSales": [
+        {
+          "highestPrice": 1405,
+          "soldToDate": 44,
+          "unitsAvail": 44,
+          "medianPrice": 1405,
+          "soldInMonth": 1,
+          "launchedToDate": 44,
+          "lowestPrice": 1405,
+          "refPeriod": "0319",
+          "launchedInMonth": 0
+        }
+      ],
+      "district": "14",
+      "y": "33124.234108349998",
+      "x": "34181.295547809999"
+    },
+    {
+      "project": "CARPMAEL THIRTY-EIGHT",
+      "propertyType": "Non-Landed",
+      "marketSegment": "RCR",
+      "developer": "LWH Carpmael Pte Ltd",
+      "street": "CARPMAEL ROAD",
+      "developerSales": [
+        {
+          "highestPrice": 1607,
+          "soldToDate": 11,
+          "unitsAvail": 16,
+          "medianPrice": 1607,
+          "soldInMonth": 1,
+          "launchedToDate": 16,
+          "lowestPrice": 1607,
+          "refPeriod": "0319",
+          "launchedInMonth": 0
+        }
+      ],
+      "district": "15",
+      "y": "32817.60008064",
+      "x": "35165.803291"
+    },
+    {
+      "project": "M5",
+      "propertyType": "Non-Landed",
+      "marketSegment": "CCR",
+      "developer": "TTH Development Pte Ltd",
+      "street": "JALAN MUTIARA",
+      "developerSales": [
+        {
+          "highestPrice": 2175,
+          "soldToDate": 11,
+          "unitsAvail": 33,
+          "medianPrice": 2175,
+          "soldInMonth": 1,
+          "launchedToDate": 33,
+          "lowestPrice": 2175,
+          "refPeriod": "0319",
+          "launchedInMonth": 0
+        }
+      ],
+      "district": "10",
+      "y": "30898.898411079999",
+      "x": "27493.155249139999"
+    },
+    {
+      "project": "KANDIS RESIDENCE",
+      "propertyType": "Non-Landed",
+      "marketSegment": "OCR",
+      "developer": "Dillenia Land Pte Ltd",
+      "street": "KANDIS LINK",
+      "developerSales": [
+        {
+          "highestPrice": 1257,
+          "soldToDate": 51,
+          "unitsAvail": 130,
+          "medianPrice": 1235,
+          "soldInMonth": 2,
+          "launchedToDate": 61,
+          "lowestPrice": 1213,
+          "refPeriod": "0319",
+          "launchedInMonth": 0
+        }
+      ],
+      "district": "27"
+    },
+    {
+      "project": "LANDED HOUSING DEVELOPMENT",
+      "propertyType": "Landed",
+      "marketSegment": "CCR",
+      "developer": "Wah Khiaw Developments Pte Ltd",
+      "street": "LORNIE ROAD",
+      "developerSales": [
+        {
+          "highestPrice": 0,
+          "soldToDate": 0,
+          "unitsAvail": 5,
+          "medianPrice": 0,
+          "soldInMonth": 0,
+          "launchedToDate": 0,
+          "lowestPrice": 0,
+          "refPeriod": "0319",
+          "launchedInMonth": 0
+        }
+      ],
+      "district": "11"
+    },
+    {
+      "project": "PARC LIFE",
+      "propertyType": "Exec Condo",
+      "marketSegment": "OCR",
+      "developer": "Sembawang Residences Pte. Ltd.",
+      "street": "SEMBAWANG CRESCENT",
+      "developerSales": [
+        {
+          "highestPrice": 0,
+          "soldToDate": 628,
+          "unitsAvail": 628,
+          "medianPrice": 0,
+          "soldInMonth": 0,
+          "launchedToDate": 628,
+          "lowestPrice": 0,
+          "refPeriod": "0319",
+          "launchedInMonth": 0
+        }
+      ],
+      "district": "27",
+      "y": "47290.2413",
+      "x": "26422.6687"
+    },
+    {
+      "project": "ASPEN LINQ",
+      "propertyType": "Non-Landed",
+      "marketSegment": "CCR",
+      "developer": "Optimus Hill Pte Ltd",
+      "street": "INSTITUTION HILL",
+      "developerSales": [
+        {
+          "highestPrice": 0,
+          "soldToDate": 17,
+          "unitsAvail": 18,
+          "medianPrice": 0,
+          "soldInMonth": 0,
+          "launchedToDate": 18,
+          "lowestPrice": 0,
+          "refPeriod": "0319",
+          "launchedInMonth": 0
+        }
+      ],
+      "district": "09",
+      "y": "30866.29160921",
+      "x": "28720.483972820001"
+    },
+    {
+      "project": "SANDY EIGHT",
+      "propertyType": "Non-Landed",
+      "marketSegment": "RCR",
+      "developer": "JVA Katong Pte Ltd",
+      "street": "SANDY LANE",
+      "developerSales": [
+        {
+          "highestPrice": 1843,
+          "soldToDate": 14,
+          "unitsAvail": 20,
+          "medianPrice": 1843,
+          "soldInMonth": 1,
+          "launchedToDate": 20,
+          "lowestPrice": 1843,
+          "refPeriod": "0319",
+          "launchedInMonth": 0
+        }
+      ],
+      "district": "15",
+      "y": "32700.98082038",
+      "x": "34673.741732049998"
+    },
+    {
+      "project": "ASCENT @ 456",
+      "propertyType": "Non-Landed",
+      "marketSegment": "RCR",
+      "developer": "Quest Homes Pte Ltd",
+      "street": "BALESTIER ROAD",
+      "developerSales": [
+        {
+          "highestPrice": 0,
+          "soldToDate": 27,
+          "unitsAvail": 28,
+          "medianPrice": 0,
+          "soldInMonth": 0,
+          "launchedToDate": 28,
+          "lowestPrice": 0,
+          "refPeriod": "0319",
+          "launchedInMonth": 0
+        }
+      ],
+      "district": "12",
+      "y": "34306.811402270001",
+      "x": "29687.822283300001"
+    },
+    {
+      "project": "THE POIZ RESIDENCES",
+      "propertyType": "Non-Landed",
+      "marketSegment": "RCR",
+      "developer": "MCC Land (Potong Pasir) Pte Ltd",
+      "street": "MEYAPPA CHETTIAR ROAD",
+      "developerSales": [
+        {
+          "highestPrice": 0,
+          "soldToDate": 727,
+          "unitsAvail": 731,
+          "medianPrice": 0,
+          "soldInMonth": 0,
+          "launchedToDate": 731,
+          "lowestPrice": 0,
+          "refPeriod": "0319",
+          "launchedInMonth": 0
+        }
+      ],
+      "district": "13",
+      "y": "34777.816594719999",
+      "x": "31921.77212036"
+    },
+    {
+      "project": "183 LONGHAUS",
+      "propertyType": "Non-Landed",
+      "marketSegment": "RCR",
+      "developer": "TEE Ventures Pte Ltd",
+      "street": "UPPER THOMSON ROAD",
+      "developerSales": [
+        {
+          "highestPrice": 0,
+          "soldToDate": 39,
+          "unitsAvail": 40,
+          "medianPrice": 0,
+          "soldInMonth": 0,
+          "launchedToDate": 40,
+          "lowestPrice": 0,
+          "refPeriod": "0319",
+          "launchedInMonth": 0
+        }
+      ],
+      "district": "20",
+      "y": "37039.888903100003",
+      "x": "28232.988499599999"
+    },
+    {
+      "project": "THE RED HOUSE",
+      "propertyType": "Non-Landed",
+      "marketSegment": "RCR",
+      "developer": "WRH Pte Ltd",
+      "street": "EAST COAST ROAD",
+      "developerSales": [
+        {
+          "highestPrice": 0,
+          "soldToDate": 20,
+          "unitsAvail": 42,
+          "medianPrice": 0,
+          "soldInMonth": 0,
+          "launchedToDate": 35,
+          "lowestPrice": 0,
+          "refPeriod": "0319",
+          "launchedInMonth": 0
+        }
+      ],
+      "district": "15",
+      "y": "31945.602374920002",
+      "x": "35811.452642770003"
+    },
+    {
+      "project": "URBAN VILLAS",
+      "propertyType": "Strata-Landed",
+      "marketSegment": "OCR",
+      "developer": "PLC Seven (S) Pte Ltd",
+      "street": "PAYA LEBAR CRESCENT",
+      "developerSales": [
+        {
+          "highestPrice": 554,
+          "soldToDate": 5,
+          "unitsAvail": 7,
+          "medianPrice": 554,
+          "soldInMonth": 1,
+          "launchedToDate": 7,
+          "lowestPrice": 554,
+          "refPeriod": "0319",
+          "launchedInMonth": 0
+        }
+      ],
+      "district": "19",
+      "y": "36567.7105",
+      "x": "33492.9418"
+    },
+    {
+      "project": "TWIN VEW",
+      "propertyType": "Non-Landed",
+      "marketSegment": "OCR",
+      "developer": "CSC Land Group (S) Pte Ltd",
+      "street": "WEST COAST VALE",
+      "developerSales": [
+        {
+          "highestPrice": 1505,
+          "soldToDate": 455,
+          "unitsAvail": 520,
+          "medianPrice": 1505,
+          "soldInMonth": 1,
+          "launchedToDate": 520,
+          "lowestPrice": 1505,
+          "refPeriod": "0319",
+          "launchedInMonth": 0
+        }
+      ],
+      "district": "05"
+    },
+    {
+      "project": "NEEM TREE",
+      "propertyType": "Non-Landed",
+      "marketSegment": "RCR",
+      "developer": "Aylesbury Pte Ltd",
+      "street": "JALAN KEMAMAN",
+      "developerSales": [
+        {
+          "highestPrice": 1760,
+          "soldToDate": 62,
+          "unitsAvail": 84,
+          "medianPrice": 1760,
+          "soldInMonth": 1,
+          "launchedToDate": 72,
+          "lowestPrice": 1760,
+          "refPeriod": "0319",
+          "launchedInMonth": 0
+        }
+      ],
+      "district": "12",
+      "y": "34389.412867519998",
+      "x": "30037.79419949"
+    },
+    {
+      "project": "PARC BOTANNIA",
+      "propertyType": "Non-Landed",
+      "marketSegment": "OCR",
+      "developer": "Fernvale Green Pte Ltd",
+      "street": "FERNVALE STREET",
+      "developerSales": [
+        {
+          "highestPrice": 1476,
+          "soldToDate": 535,
+          "unitsAvail": 735,
+          "medianPrice": 1303,
+          "soldInMonth": 55,
+          "launchedToDate": 735,
+          "lowestPrice": 1137,
+          "refPeriod": "0319",
+          "launchedInMonth": 0
+        }
+      ],
+      "district": "28"
+    },
+    {
+      "project": "THE NAVIAN",
+      "propertyType": "Non-Landed",
+      "marketSegment": "OCR",
+      "developer": "RH Eunos Pte Ltd",
+      "street": "JALAN EUNOS",
+      "developerSales": [
+        {
+          "highestPrice": 0,
+          "soldToDate": 43,
+          "unitsAvail": 48,
+          "medianPrice": 0,
+          "soldInMonth": 0,
+          "launchedToDate": 48,
+          "lowestPrice": 0,
+          "refPeriod": "0319",
+          "launchedInMonth": 0
+        }
+      ],
+      "district": "14",
+      "y": "34456.545213060001",
+      "x": "36124.919443820003"
+    },
+    {
+      "project": "LE QUEST",
+      "propertyType": "Non-Landed",
+      "marketSegment": "OCR",
+      "developer": "Qingjian Realty (BBC) Pte Ltd/Qingjian Realty (BBR) Pte Ltd",
+      "street": "BUKIT BATOK STREET 41",
+      "developerSales": [
+        {
+          "highestPrice": 1436,
+          "soldToDate": 384,
+          "unitsAvail": 516,
+          "medianPrice": 1406,
+          "soldInMonth": 5,
+          "launchedToDate": 415,
+          "lowestPrice": 1380,
+          "refPeriod": "0319",
+          "launchedInMonth": 0
+        }
+      ],
+      "district": "23"
+    },
+    {
+      "project": "RESIDENTIAL APARTMENTS",
+      "propertyType": "Non-Landed",
+      "marketSegment": "CCR",
+      "developer": "Celestial Fortune Pte Ltd",
+      "street": "DRAYCOTT PARK",
+      "developerSales": [
+        {
+          "highestPrice": 0,
+          "soldToDate": 0,
+          "unitsAvail": 20,
+          "medianPrice": 0,
+          "soldInMonth": 0,
+          "launchedToDate": 0,
+          "lowestPrice": 0,
+          "refPeriod": "0319",
+          "launchedInMonth": 0
+        }
+      ],
+      "district": "10"
+    },
+    {
+      "project": "THE ALPS RESIDENCES",
+      "propertyType": "Non-Landed",
+      "marketSegment": "OCR",
+      "developer": "MCC Land (Tampines) Pte Ltd",
+      "street": "TAMPINES STREET 86",
+      "developerSales": [
+        {
+          "highestPrice": 1179,
+          "soldToDate": 616,
+          "unitsAvail": 626,
+          "medianPrice": 1179,
+          "soldInMonth": 1,
+          "launchedToDate": 626,
+          "lowestPrice": 1179,
+          "refPeriod": "0319",
+          "launchedInMonth": 0
+        }
+      ],
+      "district": "18",
+      "y": "37491.0878",
+      "x": "38687.4197"
+    },
+    {
+      "project": "PARK PLACE RESIDENCES AT PLQ",
+      "propertyType": "Non-Landed",
+      "marketSegment": "RCR",
+      "developer": "Roma Central Pte Ltd/Milano Central Pte Ltd/Verona Central Pte Ltd",
+      "street": "PAYA LEBAR ROAD",
+      "developerSales": [
+        {
+          "highestPrice": 1809,
+          "soldToDate": 420,
+          "unitsAvail": 429,
+          "medianPrice": 1752,
+          "soldInMonth": 4,
+          "launchedToDate": 429,
+          "lowestPrice": 1682,
+          "refPeriod": "0319",
+          "launchedInMonth": 0
+        }
+      ],
+      "district": "14"
+    },
+    {
+      "project": "NORTHWAVE",
+      "propertyType": "Exec Condo",
+      "marketSegment": "OCR",
+      "developer": "Hao Yuan (Woodlands) Pte Ltd",
+      "street": "WOODLANDS VIEW",
+      "developerSales": [
+        {
+          "highestPrice": 941,
+          "soldToDate": 358,
+          "unitsAvail": 358,
+          "medianPrice": 891,
+          "soldInMonth": 5,
+          "launchedToDate": 358,
+          "lowestPrice": 872,
+          "refPeriod": "0319",
+          "launchedInMonth": 0
+        }
+      ],
+      "district": "25",
+      "y": "47267.7515",
+      "x": "25511.2862"
+    },
+    {
+      "project": "KALEIDO",
+      "propertyType": "Strata-Landed",
+      "marketSegment": "OCR",
+      "developer": "Amerald Land (TKLK) Pte Ltd",
+      "street": "LORONG K TELOK KURAU",
+      "developerSales": [
+        {
+          "highestPrice": 0,
+          "soldToDate": 5,
+          "unitsAvail": 14,
+          "medianPrice": 0,
+          "soldInMonth": 0,
+          "launchedToDate": 14,
+          "lowestPrice": 0,
+          "refPeriod": "0319",
+          "launchedInMonth": 0
+        }
+      ],
+      "district": "15",
+      "y": "32845.0841",
+      "x": "36907.913"
+    },
+    {
+      "project": "WHISTLER GRAND",
+      "propertyType": "Non-Landed",
+      "marketSegment": "OCR",
+      "developer": "CDL Pegasus Pte Ltd",
+      "street": "WEST COAST VALE",
+      "developerSales": [
+        {
+          "highestPrice": 1488,
+          "soldToDate": 286,
+          "unitsAvail": 716,
+          "medianPrice": 1363,
+          "soldInMonth": 23,
+          "launchedToDate": 300,
+          "lowestPrice": 1263,
+          "refPeriod": "0319",
+          "launchedInMonth": 0
+        }
+      ],
+      "district": "05"
+    },
+    {
+      "project": "THE LILIUM",
+      "propertyType": "Non-Landed",
+      "marketSegment": "OCR",
+      "developer": "Singhaiyi Huajiang Amber Pte Ltd",
+      "street": "HOW SUN ROAD",
+      "developerSales": [
+        {
+          "highestPrice": 0,
+          "soldToDate": 0,
+          "unitsAvail": 80,
+          "medianPrice": 0,
+          "soldInMonth": 0,
+          "launchedToDate": 0,
+          "lowestPrice": 0,
+          "refPeriod": "0319",
+          "launchedInMonth": 0
+        }
+      ],
+      "district": "19"
+    },
+    {
+      "project": "UPTOWN @ FARRER",
+      "propertyType": "Non-Landed",
+      "marketSegment": "RCR",
+      "developer": "Perumal Development Pte Ltd",
+      "street": "PERUMAL ROAD",
+      "developerSales": [
+        {
+          "highestPrice": 0,
+          "soldToDate": 0,
+          "unitsAvail": 356,
+          "medianPrice": 0,
+          "soldInMonth": 0,
+          "launchedToDate": 0,
+          "lowestPrice": 0,
+          "refPeriod": "0319",
+          "launchedInMonth": 0
+        }
+      ],
+      "district": "08"
+    },
+    {
+      "project": "35 GILSTEAD",
+      "propertyType": "Non-Landed",
+      "marketSegment": "CCR",
+      "developer": "TEE Forward Pte Ltd",
+      "street": "GILSTEAD ROAD",
+      "developerSales": [
+        {
+          "highestPrice": 2595,
+          "soldToDate": 3,
+          "unitsAvail": 70,
+          "medianPrice": 2549,
+          "soldInMonth": 3,
+          "launchedToDate": 35,
+          "lowestPrice": 2475,
+          "refPeriod": "0319",
+          "launchedInMonth": 35
+        }
+      ],
+      "district": "11"
+    },
+    {
+      "project": "RESIDENTIAL APARTMENTS",
+      "propertyType": "Non-Landed",
+      "marketSegment": "RCR",
+      "developer": "Outram Realty Pte Ltd",
+      "street": "OUTRAM ROAD",
+      "developerSales": [
+        {
+          "highestPrice": 0,
+          "soldToDate": 0,
+          "unitsAvail": 17,
+          "medianPrice": 0,
+          "soldInMonth": 0,
+          "launchedToDate": 0,
+          "lowestPrice": 0,
+          "refPeriod": "0319",
+          "launchedInMonth": 0
+        }
+      ],
+      "district": "03"
+    },
+    {
+      "project": "SERAYA RESIDENCES",
+      "propertyType": "Non-Landed",
+      "marketSegment": "RCR",
+      "developer": "Macly 33 Pte Ltd",
+      "street": "SERAYA LANE",
+      "developerSales": [
+        {
+          "highestPrice": 0,
+          "soldToDate": 0,
+          "unitsAvail": 17,
+          "medianPrice": 0,
+          "soldInMonth": 0,
+          "launchedToDate": 0,
+          "lowestPrice": 0,
+          "refPeriod": "0319",
+          "launchedInMonth": 0
+        }
+      ],
+      "district": "15"
+    },
+    {
+      "project": "WILSHIRE RESIDENCES",
+      "propertyType": "Non-Landed",
+      "marketSegment": "CCR",
+      "developer": "TE2KS-RH Pte Ltd",
+      "street": "FARRER ROAD",
+      "developerSales": [
+        {
+          "highestPrice": 0,
+          "soldToDate": 0,
+          "unitsAvail": 85,
+          "medianPrice": 0,
+          "soldInMonth": 0,
+          "launchedToDate": 0,
+          "lowestPrice": 0,
+          "refPeriod": "0319",
+          "launchedInMonth": 0
+        }
+      ],
+      "district": "10"
+    },
+    {
+      "project": "1953",
+      "propertyType": "Non-Landed",
+      "marketSegment": "RCR",
+      "developer": "Oxley Amethyst Pte Ltd",
+      "street": "TESSENSOHN ROAD",
+      "developerSales": [
+        {
+          "highestPrice": 1971,
+          "soldToDate": 18,
+          "unitsAvail": 58,
+          "medianPrice": 1866,
+          "soldInMonth": 18,
+          "launchedToDate": 58,
+          "lowestPrice": 1706,
+          "refPeriod": "0319",
+          "launchedInMonth": 58
+        }
+      ],
+      "district": "12"
+    },
+    {
+      "project": "PETIT JERVOIS",
+      "propertyType": "Non-Landed",
+      "marketSegment": "CCR",
+      "developer": "Jerwyn Pte Ltd",
+      "street": "JERVOIS ROAD",
+      "developerSales": [
+        {
+          "highestPrice": 0,
+          "soldToDate": 1,
+          "unitsAvail": 55,
+          "medianPrice": 0,
+          "soldInMonth": 0,
+          "launchedToDate": 1,
+          "lowestPrice": 0,
+          "refPeriod": "0319",
+          "launchedInMonth": 0
+        }
+      ],
+      "district": "10"
+    },
+    {
+      "project": "MAYFAIR MODERN",
+      "propertyType": "Non-Landed",
+      "marketSegment": "RCR",
+      "developer": "Citrine Property Pte Ltd",
+      "street": "RIFLE RANGE ROAD",
+      "developerSales": [
+        {
+          "highestPrice": 0,
+          "soldToDate": 0,
+          "unitsAvail": 171,
+          "medianPrice": 0,
+          "soldInMonth": 0,
+          "launchedToDate": 0,
+          "lowestPrice": 0,
+          "refPeriod": "0319",
+          "launchedInMonth": 0
+        }
+      ],
+      "district": "21"
+    },
+    {
+      "project": "MAYFAIR GARDENS",
+      "propertyType": "Non-Landed",
+      "marketSegment": "RCR",
+      "developer": "Citrine Property Pte Ltd",
+      "street": "RIFLE RANGE ROAD",
+      "developerSales": [
+        {
+          "highestPrice": 2089,
+          "soldToDate": 133,
+          "unitsAvail": 215,
+          "medianPrice": 1944,
+          "soldInMonth": 13,
+          "launchedToDate": 140,
+          "lowestPrice": 1856,
+          "refPeriod": "0319",
+          "launchedInMonth": 0
+        }
+      ],
+      "district": "21"
+    },
+    {
+      "project": "THE RAMFORD",
+      "propertyType": "Landed / Non-Landed",
+      "marketSegment": "RCR",
+      "developer": "Centra East Development Pte Ltd",
+      "street": "RAMBAI ROAD",
+      "developerSales": [
+        {
+          "highestPrice": 1680,
+          "soldToDate": 13,
+          "unitsAvail": 16,
+          "medianPrice": 1569,
+          "soldInMonth": 6,
+          "launchedToDate": 16,
+          "lowestPrice": 1469,
+          "refPeriod": "0319",
+          "launchedInMonth": 0
+        }
+      ],
+      "district": "15",
+      "y": "32593.826823119998",
+      "x": "35947.255860229997"
+    },
+    {
+      "project": "LUXUS HILLS",
+      "propertyType": "Landed",
+      "marketSegment": "OCR",
+      "developer": "Singapore United Estates Pte Ltd",
+      "street": "LUXUS HILL AVENUE",
+      "developerSales": [
+        {
+          "highestPrice": 0,
+          "soldToDate": 0,
+          "unitsAvail": 39,
+          "medianPrice": 0,
+          "soldInMonth": 0,
+          "launchedToDate": 0,
+          "lowestPrice": 0,
+          "refPeriod": "0319",
+          "launchedInMonth": 0
+        }
+      ],
+      "district": "28",
+      "y": "40309.9311",
+      "x": "32470.9892"
+    },
+    {
+      "project": "FOREST WOODS",
+      "propertyType": "Non-Landed",
+      "marketSegment": "OCR",
+      "developer": "Serangoon Green Pte. Ltd.",
+      "street": "LORONG LEW LIAN",
+      "developerSales": [
+        {
+          "highestPrice": 1595,
+          "soldToDate": 507,
+          "unitsAvail": 519,
+          "medianPrice": 1589,
+          "soldInMonth": 2,
+          "launchedToDate": 519,
+          "lowestPrice": 1583,
+          "refPeriod": "0319",
+          "launchedInMonth": 0
+        }
+      ],
+      "district": "19",
+      "y": "37024.1799",
+      "x": "32852.8495"
+    },
+    {
+      "project": "GEM RESIDENCES",
+      "propertyType": "Non-Landed",
+      "marketSegment": "RCR",
+      "developer": "GEM Homes Pte Ltd",
+      "street": "LORONG 5 TOA PAYOH",
+      "developerSales": [
+        {
+          "highestPrice": 1468,
+          "soldToDate": 575,
+          "unitsAvail": 578,
+          "medianPrice": 1468,
+          "soldInMonth": 1,
+          "launchedToDate": 578,
+          "lowestPrice": 1468,
+          "refPeriod": "0319",
+          "launchedInMonth": 0
+        }
+      ],
+      "district": "12",
+      "y": "35664.5183",
+      "x": "29963.5481"
+    },
+    {
+      "project": "ONE MEYER",
+      "propertyType": "Non-Landed",
+      "marketSegment": "RCR",
+      "developer": "SL Capital (5) Pte Ltd",
+      "street": "MEYER PLACE",
+      "developerSales": [
+        {
+          "highestPrice": 2812,
+          "soldToDate": 10,
+          "unitsAvail": 66,
+          "medianPrice": 2669,
+          "soldInMonth": 10,
+          "launchedToDate": 66,
+          "lowestPrice": 2500,
+          "refPeriod": "0319",
+          "launchedInMonth": 66
+        }
+      ],
+      "district": "15",
+      "y": "31186.381571870001",
+      "x": "33893.493435440001"
+    },
+    {
+      "project": "PARC ESTA",
+      "propertyType": "Non-Landed",
+      "marketSegment": "RCR",
+      "developer": "MCL Land (Everbright) Pte Ltd",
+      "street": "SIMS AVENUE",
+      "developerSales": [
+        {
+          "highestPrice": 1829,
+          "soldToDate": 483,
+          "unitsAvail": 1399,
+          "medianPrice": 1711,
+          "soldInMonth": 36,
+          "launchedToDate": 550,
+          "lowestPrice": 1566,
+          "refPeriod": "0319",
+          "launchedInMonth": 100
+        }
+      ],
+      "district": "14"
+    },
+    {
+      "project": "RESIDENTIAL APARTMENTS",
+      "propertyType": "Non-Landed",
+      "marketSegment": "CCR",
+      "developer": "23MSR Pte Ltd",
+      "street": "MOHAMED SULTAN ROAD",
+      "developerSales": [
+        {
+          "highestPrice": 0,
+          "soldToDate": 0,
+          "unitsAvail": 13,
+          "medianPrice": 0,
+          "soldInMonth": 0,
+          "launchedToDate": 0,
+          "lowestPrice": 0,
+          "refPeriod": "0319",
+          "launchedInMonth": 0
+        }
+      ],
+      "district": "09"
+    },
+    {
+      "project": "THE ADDITION",
+      "propertyType": "Non-Landed",
+      "marketSegment": "RCR",
+      "developer": "Oxley Topaz Pte Ltd",
+      "street": "MEYAPPA CHETTIAR ROAD",
+      "developerSales": [
+        {
+          "highestPrice": 1786,
+          "soldToDate": 19,
+          "unitsAvail": 26,
+          "medianPrice": 1771,
+          "soldInMonth": 2,
+          "launchedToDate": 26,
+          "lowestPrice": 1755,
+          "refPeriod": "0319",
+          "launchedInMonth": 0
+        }
+      ],
+      "district": "13",
+      "y": "34786.634278420003",
+      "x": "31778.61998761"
+    },
+    {
+      "project": "NYON",
+      "propertyType": "Non-Landed",
+      "marketSegment": "RCR",
+      "developer": "Aurum Land Pte Ltd",
+      "street": "AMBER ROAD",
+      "developerSales": [
+        {
+          "highestPrice": 2515,
+          "soldToDate": 4,
+          "unitsAvail": 92,
+          "medianPrice": 2434,
+          "soldInMonth": 4,
+          "launchedToDate": 92,
+          "lowestPrice": 2320,
+          "refPeriod": "0319",
+          "launchedInMonth": 92
+        }
+      ],
+      "district": "15"
+    },
+    {
+      "project": "BELGRAVIA GREEN",
+      "propertyType": "Strata-Landed",
+      "marketSegment": "OCR",
+      "developer": "Fairview Developments Pte Ltd",
+      "street": "BELGRAVIA DRIVE",
+      "developerSales": [
+        {
+          "highestPrice": 865,
+          "soldToDate": 40,
+          "unitsAvail": 81,
+          "medianPrice": 863,
+          "soldInMonth": 2,
+          "launchedToDate": 49,
+          "lowestPrice": 860,
+          "refPeriod": "0319",
+          "launchedInMonth": 0
+        }
+      ],
+      "district": "28"
+    },
+    {
+      "project": "ALIAS VILLAS",
+      "propertyType": "Strata-Landed",
+      "marketSegment": "CCR",
+      "developer": "WHA Heritage Pte Ltd",
+      "street": "JALAN HAJI ALIAS",
+      "developerSales": [
+        {
+          "highestPrice": 0,
+          "soldToDate": 0,
+          "unitsAvail": 6,
+          "medianPrice": 0,
+          "soldInMonth": 0,
+          "launchedToDate": 6,
+          "lowestPrice": 0,
+          "refPeriod": "0319",
+          "launchedInMonth": 0
+        }
+      ],
+      "district": "10",
+      "y": "33935.4781",
+      "x": "23750.8879"
+    },
+    {
+      "project": "FYVE DERBYSHIRE",
+      "propertyType": "Non-Landed",
+      "marketSegment": "CCR",
+      "developer": "RH Developments Two Pte Ltd",
+      "street": "DERBYSHIRE ROAD",
+      "developerSales": [
+        {
+          "highestPrice": 2540,
+          "soldToDate": 6,
+          "unitsAvail": 71,
+          "medianPrice": 2540,
+          "soldInMonth": 1,
+          "launchedToDate": 36,
+          "lowestPrice": 2540,
+          "refPeriod": "0319",
+          "launchedInMonth": 0
+        }
+      ],
+      "district": "11",
+      "y": "33167.649105350003",
+      "x": "29386.24216108"
+    },
+    {
+      "project": "WHITE COVE",
+      "propertyType": "Strata-Landed",
+      "marketSegment": "OCR",
+      "developer": "Tai Lai Holdings Pte Ltd",
+      "street": "PONGGOL SEVENTEENTH AVENUE",
+      "developerSales": [
+        {
+          "highestPrice": 0,
+          "soldToDate": 0,
+          "unitsAvail": 17,
+          "medianPrice": 0,
+          "soldInMonth": 0,
+          "launchedToDate": 0,
+          "lowestPrice": 0,
+          "refPeriod": "0319",
+          "launchedInMonth": 0
+        }
+      ],
+      "district": "19",
+      "y": "44039.6095",
+      "x": "35725.9428"
+    },
+    {
+      "project": "V ON SHENTON",
+      "propertyType": "Non-Landed",
+      "marketSegment": "CCR",
+      "developer": "UIC Investments (Properties) Pte Ltd",
+      "street": "SHENTON WAY",
+      "developerSales": [
+        {
+          "highestPrice": 2075,
+          "soldToDate": 451,
+          "unitsAvail": 510,
+          "medianPrice": 2075,
+          "soldInMonth": 1,
+          "launchedToDate": 500,
+          "lowestPrice": 2075,
+          "refPeriod": "0319",
+          "launchedInMonth": 50
+        }
+      ],
+      "district": "01",
+      "y": "28832.8328",
+      "x": "29758.8449"
+    },
+    {
+      "project": "BOTANIC @ CLUNY PARK",
+      "propertyType": "Strata-Landed",
+      "marketSegment": "CCR",
+      "developer": "Cluny Development Pte Ltd",
+      "street": "CLUNY PARK ROAD",
+      "developerSales": [
+        {
+          "highestPrice": 0,
+          "soldToDate": 3,
+          "unitsAvail": 6,
+          "medianPrice": 0,
+          "soldInMonth": 0,
+          "launchedToDate": 6,
+          "lowestPrice": 0,
+          "refPeriod": "0319",
+          "launchedInMonth": 0
+        }
+      ],
+      "district": "10"
+    },
+    {
+      "project": "QUEENS PEAK",
+      "propertyType": "Non-Landed",
+      "marketSegment": "RCR",
+      "developer": "HY Realty (Dundee) Pte Ltd",
+      "street": "DUNDEE ROAD",
+      "developerSales": [
+        {
+          "highestPrice": 0,
+          "soldToDate": 697,
+          "unitsAvail": 736,
+          "medianPrice": 0,
+          "soldInMonth": 0,
+          "launchedToDate": 736,
+          "lowestPrice": 0,
+          "refPeriod": "0319",
+          "launchedInMonth": 0
+        }
+      ],
+      "district": "03",
+      "y": "30782.157",
+      "x": "25043.1097"
+    },
+    {
+      "project": "NIM COLLECTION",
+      "propertyType": "Landed",
+      "marketSegment": "OCR",
+      "developer": "Singapore United Estates Pte Ltd",
+      "street": "NIM RISE/NIM TERRACE",
+      "developerSales": [
+        {
+          "highestPrice": 1746,
+          "soldToDate": 71,
+          "unitsAvail": 98,
+          "medianPrice": 1727,
+          "soldInMonth": 11,
+          "launchedToDate": 98,
+          "lowestPrice": 1209,
+          "refPeriod": "0319",
+          "launchedInMonth": 0
+        }
+      ],
+      "district": "28"
+    },
+    {
+      "project": "RESIDENCE TWENTY-TWO",
+      "propertyType": "Non-Landed",
+      "marketSegment": "OCR",
+      "developer": "Grow99 Pte Ltd",
+      "street": "TELOK KURAU ROAD",
+      "developerSales": [
+        {
+          "highestPrice": 1632,
+          "soldToDate": 1,
+          "unitsAvail": 22,
+          "medianPrice": 1632,
+          "soldInMonth": 1,
+          "launchedToDate": 22,
+          "lowestPrice": 1632,
+          "refPeriod": "0319",
+          "launchedInMonth": 22
+        }
+      ],
+      "district": "15",
+      "y": "32587.910429869999",
+      "x": "36629.723625620003"
+    },
+    {
+      "project": "THE GAZANIA",
+      "propertyType": "Non-Landed",
+      "marketSegment": "OCR",
+      "developer": "Singhaiyi Huajiang Sun Pte Ltd",
+      "street": "HOW SUN DRIVE",
+      "developerSales": [
+        {
+          "highestPrice": 0,
+          "soldToDate": 0,
+          "unitsAvail": 250,
+          "medianPrice": 0,
+          "soldInMonth": 0,
+          "launchedToDate": 0,
+          "lowestPrice": 0,
+          "refPeriod": "0319",
+          "launchedInMonth": 0
+        }
+      ],
+      "district": "19"
+    },
+    {
+      "project": "CASHEW GREEN",
+      "propertyType": "Landed",
+      "marketSegment": "OCR",
+      "developer": "Lucky Realty Co Pte Ltd",
+      "street": "CASHEW ROAD",
+      "developerSales": [
+        {
+          "highestPrice": 0,
+          "soldToDate": 6,
+          "unitsAvail": 19,
+          "medianPrice": 0,
+          "soldInMonth": 0,
+          "launchedToDate": 11,
+          "lowestPrice": 0,
+          "refPeriod": "0319",
+          "launchedInMonth": 0
+        }
+      ],
+      "district": "23"
+    },
+    {
+      "project": "SOL ACRES",
+      "propertyType": "Exec Condo",
+      "marketSegment": "OCR",
+      "developer": "MCL Land (Brighton) Pte Ltd",
+      "street": "CHOA CHU KANG GROVE",
+      "developerSales": [
+        {
+          "highestPrice": 0,
+          "soldToDate": 1327,
+          "unitsAvail": 1327,
+          "medianPrice": 0,
+          "soldInMonth": 0,
+          "launchedToDate": 1327,
+          "lowestPrice": 0,
+          "refPeriod": "0319",
+          "launchedInMonth": 0
+        }
+      ],
+      "district": "23",
+      "y": "39917.4493",
+      "x": "18797.7424"
+    },
+    {
+      "project": "THE ESSENCE",
+      "propertyType": "Non-Landed",
+      "marketSegment": "OCR",
+      "developer": "Chong Kuo Development Pte Ltd",
+      "street": "CHONG KUO ROAD",
+      "developerSales": [
+        {
+          "highestPrice": 1363,
+          "soldToDate": 6,
+          "unitsAvail": 84,
+          "medianPrice": 1309,
+          "soldInMonth": 6,
+          "launchedToDate": 84,
+          "lowestPrice": 1285,
+          "refPeriod": "0319",
+          "launchedInMonth": 84
+        }
+      ],
+      "district": "26"
+    },
+    {
+      "project": "10 EVELYN",
+      "propertyType": "Non-Landed",
+      "marketSegment": "CCR",
+      "developer": "Creative Investments Pte Ltd",
+      "street": "EVELYN ROAD",
+      "developerSales": [
+        {
+          "highestPrice": 0,
+          "soldToDate": 4,
+          "unitsAvail": 56,
+          "medianPrice": 0,
+          "soldInMonth": 0,
+          "launchedToDate": 56,
+          "lowestPrice": 0,
+          "refPeriod": "0319",
+          "launchedInMonth": 0
+        }
+      ],
+      "district": "11"
+    },
+    {
+      "project": "TK ONE",
+      "propertyType": "Strata-Landed",
+      "marketSegment": "OCR",
+      "developer": "Longfor Pte Ltd",
+      "street": "LORONG N TELOK KURAU",
+      "developerSales": [
+        {
+          "highestPrice": 0,
+          "soldToDate": 0,
+          "unitsAvail": 5,
+          "medianPrice": 0,
+          "soldInMonth": 0,
+          "launchedToDate": 5,
+          "lowestPrice": 0,
+          "refPeriod": "0319",
+          "launchedInMonth": 0
+        }
+      ],
+      "district": "15",
+      "y": "32487.7655",
+      "x": "36649.9616"
+    },
+    {
+      "project": "PARKWOOD COLLECTION",
+      "propertyType": "Strata-Landed",
+      "marketSegment": "OCR",
+      "developer": "Fantasia (Park) Pte Ltd",
+      "street": "LORONG 1 REALTY PARK/HOUGANG AVENUE 2/UPPER SERANGOON ROAD",
+      "developerSales": [
+        {
+          "highestPrice": 0,
+          "soldToDate": 0,
+          "unitsAvail": 53,
+          "medianPrice": 0,
+          "soldInMonth": 0,
+          "launchedToDate": 0,
+          "lowestPrice": 0,
+          "refPeriod": "0319",
+          "launchedInMonth": 0
+        }
+      ],
+      "district": "19"
+    },
+    {
+      "project": "AFFINITY AT SERANGOON",
+      "propertyType": "Non-Landed",
+      "marketSegment": "OCR",
+      "developer": "Oxley Serangoon Pte Ltd",
+      "street": "SERANGOON NORTH AVENUE 1",
+      "developerSales": [
+        {
+          "highestPrice": 1645,
+          "soldToDate": 481,
+          "unitsAvail": 1052,
+          "medianPrice": 1506,
+          "soldInMonth": 50,
+          "launchedToDate": 650,
+          "lowestPrice": 1365,
+          "refPeriod": "0319",
+          "launchedInMonth": 0
+        }
+      ],
+      "district": "19"
+    },
+    {
+      "project": "SEA PAVILION RESIDENCES",
+      "propertyType": "Non-Landed",
+      "marketSegment": "OCR",
+      "developer": "Oxley Opal Pte Ltd",
+      "street": "UPPER EAST COAST ROAD",
+      "developerSales": [
+        {
+          "highestPrice": 0,
+          "soldToDate": 24,
+          "unitsAvail": 24,
+          "medianPrice": 0,
+          "soldInMonth": 0,
+          "launchedToDate": 24,
+          "lowestPrice": 0,
+          "refPeriod": "0319",
+          "launchedInMonth": 0
+        }
+      ],
+      "district": "16",
+      "y": "33042.023721420003",
+      "x": "40230.514903620003"
+    },
+    {
+      "project": "PARKWOOD RESIDENCES",
+      "propertyType": "Non-Landed",
+      "marketSegment": "OCR",
+      "developer": "Oxley Garnet Pte Ltd",
+      "street": "YIO CHU KANG ROAD",
+      "developerSales": [
+        {
+          "highestPrice": 0,
+          "soldToDate": 0,
+          "unitsAvail": 18,
+          "medianPrice": 0,
+          "soldInMonth": 0,
+          "launchedToDate": 0,
+          "lowestPrice": 0,
+          "refPeriod": "0319",
+          "launchedInMonth": 0
+        }
+      ],
+      "district": "19"
+    },
+    {
+      "project": "RIVERFRONT RESIDENCES",
+      "propertyType": "Non-Landed",
+      "marketSegment": "OCR",
+      "developer": "Rio Casa Venture Pte Ltd",
+      "street": "HOUGANG AVENUE 7",
+      "developerSales": [
+        {
+          "highestPrice": 1480,
+          "soldToDate": 938,
+          "unitsAvail": 1472,
+          "medianPrice": 1334,
+          "soldInMonth": 55,
+          "launchedToDate": 1200,
+          "lowestPrice": 1134,
+          "refPeriod": "0319",
+          "launchedInMonth": 270
+        }
+      ],
+      "district": "19"
+    },
+    {
+      "project": "CITY GATE",
+      "propertyType": "Non-Landed",
+      "marketSegment": "RCR",
+      "developer": "Bayfront Ventures Pte Ltd",
+      "street": "BEACH ROAD",
+      "developerSales": [
+        {
+          "highestPrice": 0,
+          "soldToDate": 311,
+          "unitsAvail": 311,
+          "medianPrice": 0,
+          "soldInMonth": 0,
+          "launchedToDate": 311,
+          "lowestPrice": 0,
+          "refPeriod": "0319",
+          "launchedInMonth": 0
+        }
+      ],
+      "district": "07",
+      "y": "31625.349929479999",
+      "x": "31223.097831970002"
+    },
+    {
+      "project": "33 RESIDENCES",
+      "propertyType": "Non-Landed",
+      "marketSegment": "RCR",
+      "developer": "Macly 33 Pte Ltd",
+      "street": "LORONG 30 GEYLANG",
+      "developerSales": [
+        {
+          "highestPrice": 0,
+          "soldToDate": 27,
+          "unitsAvail": 27,
+          "medianPrice": 0,
+          "soldInMonth": 0,
+          "launchedToDate": 27,
+          "lowestPrice": 0,
+          "refPeriod": "0319",
+          "launchedInMonth": 0
+        }
+      ],
+      "district": "14",
+      "y": "32712.7681568",
+      "x": "33911.708879680003"
+    },
+    {
+      "project": "12 ON SHAN",
+      "propertyType": "Non-Landed",
+      "marketSegment": "RCR",
+      "developer": "TA Realty Pte Ltd",
+      "street": "SHAN ROAD",
+      "developerSales": [
+        {
+          "highestPrice": 0,
+          "soldToDate": 0,
+          "unitsAvail": 78,
+          "medianPrice": 0,
+          "soldInMonth": 0,
+          "launchedToDate": 30,
+          "lowestPrice": 0,
+          "refPeriod": "0319",
+          "launchedInMonth": 0
+        }
+      ],
+      "district": "12",
+      "y": "34118.994566530003",
+      "x": "29465.757668070001"
+    },
+    {
+      "project": "LANDED HOUSING DEVELOPMENT",
+      "propertyType": "Landed",
+      "marketSegment": "OCR",
+      "developer": "Meng Suan Development Pte Ltd",
+      "street": "MENG SUAN ROAD",
+      "developerSales": [
+        {
+          "highestPrice": 0,
+          "soldToDate": 4,
+          "unitsAvail": 9,
+          "medianPrice": 0,
+          "soldInMonth": 0,
+          "launchedToDate": 9,
+          "lowestPrice": 0,
+          "refPeriod": "0319",
+          "launchedInMonth": 0
+        }
+      ],
+      "district": "26",
+      "y": "42805.785781769999",
+      "x": "25744.731378189999"
+    },
+    {
+      "project": "AMBER PARK",
+      "propertyType": "Non-Landed",
+      "marketSegment": "RCR",
+      "developer": "Aquarius Properties Pte Ltd",
+      "street": "AMBER GARDENS",
+      "developerSales": [
+        {
+          "highestPrice": 0,
+          "soldToDate": 0,
+          "unitsAvail": 592,
+          "medianPrice": 0,
+          "soldInMonth": 0,
+          "launchedToDate": 0,
+          "lowestPrice": 0,
+          "refPeriod": "0319",
+          "launchedInMonth": 0
+        }
+      ],
+      "district": "15"
+    },
+    {
+      "project": "ALANA",
+      "propertyType": "Strata-Landed",
+      "marketSegment": "OCR",
+      "developer": "Bullion Holdings Pte Ltd & Cabana JV Pte Ltd",
+      "street": "SUNRISE TERRACE",
+      "developerSales": [
+        {
+          "highestPrice": 0,
+          "soldToDate": 23,
+          "unitsAvail": 78,
+          "medianPrice": 0,
+          "soldInMonth": 0,
+          "launchedToDate": 26,
+          "lowestPrice": 0,
+          "refPeriod": "0319",
+          "launchedInMonth": 0
+        }
+      ],
+      "district": "28",
+      "y": "41215.3534",
+      "x": "30456.9191"
+    },
+    {
+      "project": "KENT RIDGE HILL RESIDENCES",
+      "propertyType": "Non-Landed",
+      "marketSegment": "RCR",
+      "developer": "Oxley Spinel Pte Ltd",
+      "street": "SOUTH BUONA VISTA ROAD",
+      "developerSales": [
+        {
+          "highestPrice": 1857,
+          "soldToDate": 152,
+          "unitsAvail": 548,
+          "medianPrice": 1746,
+          "soldInMonth": 14,
+          "launchedToDate": 250,
+          "lowestPrice": 1485,
+          "refPeriod": "0319",
+          "launchedInMonth": 0
+        }
+      ],
+      "district": "05",
+      "y": "29343.570221580001",
+      "x": "23143.1682839"
+    },
+    {
+      "project": "THE GARDEN RESIDENCES",
+      "propertyType": "Non-Landed",
+      "marketSegment": "OCR",
+      "developer": "Gardens Development Pte Ltd",
+      "street": "SERANGOON NORTH VIEW",
+      "developerSales": [
+        {
+          "highestPrice": 1728,
+          "soldToDate": 123,
+          "unitsAvail": 613,
+          "medianPrice": 1545,
+          "soldInMonth": 29,
+          "launchedToDate": 156,
+          "lowestPrice": 1430,
+          "refPeriod": "0319",
+          "launchedInMonth": 0
+        }
+      ],
+      "district": "19"
+    },
+    {
+      "project": "MIDTOWN BAY",
+      "propertyType": "Non-Landed",
+      "marketSegment": "CCR",
+      "developer": "GLL Prosper Pte Ltd/GLL Thrive Pte Ltd",
+      "street": "BEACH ROAD",
+      "developerSales": [
+        {
+          "highestPrice": 0,
+          "soldToDate": 0,
+          "unitsAvail": 219,
+          "medianPrice": 0,
+          "soldInMonth": 0,
+          "launchedToDate": 0,
+          "lowestPrice": 0,
+          "refPeriod": "0319",
+          "launchedInMonth": 0
+        }
+      ],
+      "district": "07"
+    },
+    {
+      "project": "JUNIPER HILL",
+      "propertyType": "Non-Landed",
+      "marketSegment": "CCR",
+      "developer": "Allgreen Properties Limited",
+      "street": "EWE BOON ROAD",
+      "developerSales": [
+        {
+          "highestPrice": 0,
+          "soldToDate": 0,
+          "unitsAvail": 115,
+          "medianPrice": 0,
+          "soldInMonth": 0,
+          "launchedToDate": 0,
+          "lowestPrice": 0,
+          "refPeriod": "0319",
+          "launchedInMonth": 0
+        }
+      ],
+      "district": "10"
+    },
+    {
+      "project": "ONE TREE HILL COLLECTION",
+      "propertyType": "Landed",
+      "marketSegment": "CCR",
+      "developer": "Lum Chang Auriga Pte Ltd",
+      "street": "JALAN ARNAP/ONE TREE HILL/JALAN KELAWAR",
+      "developerSales": [
+        {
+          "highestPrice": 0,
+          "soldToDate": 3,
+          "unitsAvail": 14,
+          "medianPrice": 0,
+          "soldInMonth": 0,
+          "launchedToDate": 4,
+          "lowestPrice": 0,
+          "refPeriod": "0319",
+          "launchedInMonth": 0
+        }
+      ],
+      "district": "10"
+    },
+    {
+      "project": "CONDOMINIUM DEVELOPMENT",
+      "propertyType": "Non-Landed",
+      "marketSegment": "CCR",
+      "developer": "Sky Top Investments Pte Ltd",
+      "street": "ANAMALAI AVENUE/BUKIT TIMAH ROAD/LILY AVENUE",
+      "developerSales": [
+        {
+          "highestPrice": 0,
+          "soldToDate": 0,
+          "unitsAvail": 285,
+          "medianPrice": 0,
+          "soldInMonth": 0,
+          "launchedToDate": 0,
+          "lowestPrice": 0,
+          "refPeriod": "0319",
+          "launchedInMonth": 0
+        }
+      ],
+      "district": "10"
+    },
+    {
+      "project": "THE JOVELL",
+      "propertyType": "Non-Landed",
+      "marketSegment": "OCR",
+      "developer": "Tripartite Developers Pte. Limited",
+      "street": "FLORA DRIVE",
+      "developerSales": [
+        {
+          "highestPrice": 1387,
+          "soldToDate": 67,
+          "unitsAvail": 428,
+          "medianPrice": 1313,
+          "soldInMonth": 8,
+          "launchedToDate": 250,
+          "lowestPrice": 1175,
+          "refPeriod": "0319",
+          "launchedInMonth": 0
+        }
+      ],
+      "district": "17"
+    },
+    {
+      "project": "LINK RESIDENCE @ HOLLAND",
+      "propertyType": "Landed",
+      "marketSegment": "CCR",
+      "developer": "Link (THM) Prestige Homes Pte. Ltd.",
+      "street": "GREENLEAF ROAD",
+      "developerSales": [
+        {
+          "highestPrice": 0,
+          "soldToDate": 0,
+          "unitsAvail": 4,
+          "medianPrice": 0,
+          "soldInMonth": 0,
+          "launchedToDate": 2,
+          "lowestPrice": 0,
+          "refPeriod": "0319",
+          "launchedInMonth": 0
+        }
+      ],
+      "district": "10",
+      "y": "33788.8233",
+      "x": "22819.3893"
+    },
+    {
+      "project": "RV ALTITUDE",
+      "propertyType": "Non-Landed",
+      "marketSegment": "CCR",
+      "developer": "RH Capital Two Pte Ltd",
+      "street": "RIVER VALLEY ROAD",
+      "developerSales": [
+        {
+          "highestPrice": 3107,
+          "soldToDate": 21,
+          "unitsAvail": 140,
+          "medianPrice": 3073,
+          "soldInMonth": 2,
+          "launchedToDate": 63,
+          "lowestPrice": 3039,
+          "refPeriod": "0319",
+          "launchedInMonth": 0
+        }
+      ],
+      "district": "09"
+    },
+    {
+      "project": "DAINTREE RESIDENCE",
+      "propertyType": "Non-Landed",
+      "marketSegment": "RCR",
+      "developer": "Setia (Bukit Timah) Pte Ltd",
+      "street": "TOH TUCK ROAD",
+      "developerSales": [
+        {
+          "highestPrice": 0,
+          "soldToDate": 47,
+          "unitsAvail": 327,
+          "medianPrice": 0,
+          "soldInMonth": 0,
+          "launchedToDate": 80,
+          "lowestPrice": 0,
+          "refPeriod": "0319",
+          "launchedInMonth": 0
+        }
+      ],
+      "district": "21"
+    },
+    {
+      "project": "FOURTH AVENUE RESIDENCES",
+      "propertyType": "Non-Landed",
+      "marketSegment": "CCR",
+      "developer": "Valleypoint Investments Pte Ltd",
+      "street": "FOURTH AVENUE",
+      "developerSales": [
+        {
+          "highestPrice": 2496,
+          "soldToDate": 78,
+          "unitsAvail": 476,
+          "medianPrice": 2370,
+          "soldInMonth": 9,
+          "launchedToDate": 168,
+          "lowestPrice": 2239,
+          "refPeriod": "0319",
+          "launchedInMonth": 0
+        }
+      ],
+      "district": "10"
+    },
+    {
+      "project": "TREASURE AT TAMPINES",
+      "propertyType": "Non-Landed",
+      "marketSegment": "OCR",
+      "developer": "Sim Lian (Treasure) Pte Ltd",
+      "street": "TAMPINES LANE",
+      "developerSales": [
+        {
+          "highestPrice": 1467,
+          "soldToDate": 289,
+          "unitsAvail": 2203,
+          "medianPrice": 1335,
+          "soldInMonth": 289,
+          "launchedToDate": 490,
+          "lowestPrice": 1173,
+          "refPeriod": "0319",
+          "launchedInMonth": 490
+        }
+      ],
+      "district": "18"
+    },
+    {
+      "project": "OLLOI",
+      "propertyType": "Non-Landed",
+      "marketSegment": "RCR",
+      "developer": "K16 Development Pte Ltd",
+      "street": "LORONG 101 CHANGI",
+      "developerSales": [
+        {
+          "highestPrice": 0,
+          "soldToDate": 0,
+          "unitsAvail": 34,
+          "medianPrice": 0,
+          "soldInMonth": 0,
+          "launchedToDate": 0,
+          "lowestPrice": 0,
+          "refPeriod": "0319",
+          "launchedInMonth": 0
+        }
+      ],
+      "district": "15"
+    },
+    {
+      "project": "SUNSTONE HILL",
+      "propertyType": "Non-Landed",
+      "marketSegment": "RCR",
+      "developer": "Sunstone Properties (Pasir Panjang) Pte Ltd",
+      "street": "BALMEG HILL",
+      "developerSales": [
+        {
+          "highestPrice": 0,
+          "soldToDate": 0,
+          "unitsAvail": 28,
+          "medianPrice": 0,
+          "soldInMonth": 0,
+          "launchedToDate": 0,
+          "lowestPrice": 0,
+          "refPeriod": "0319",
+          "launchedInMonth": 0
+        }
+      ],
+      "district": "05"
+    },
+    {
+      "project": "EDEN RESIDENCES CAPITOL",
+      "propertyType": "Non-Landed",
+      "marketSegment": "CCR",
+      "developer": "Capitol Residential Development P L/Capitol Retail Management P L",
+      "street": "STAMFORD ROAD",
+      "developerSales": [
+        {
+          "highestPrice": 0,
+          "soldToDate": 16,
+          "unitsAvail": 39,
+          "medianPrice": 0,
+          "soldInMonth": 0,
+          "launchedToDate": 39,
+          "lowestPrice": 0,
+          "refPeriod": "0319",
+          "launchedInMonth": 0
+        }
+      ],
+      "district": "06",
+      "y": "30711.0329",
+      "x": "29954.7763"
+    },
+    {
+      "project": "FERRA",
+      "propertyType": "Non-Landed",
+      "marketSegment": "CCR",
+      "developer": "Orchard Landmark Pte Ltd",
+      "street": "LEONIE HILL",
+      "developerSales": [
+        {
+          "highestPrice": 0,
+          "soldToDate": 0,
+          "unitsAvail": 104,
+          "medianPrice": 0,
+          "soldInMonth": 0,
+          "launchedToDate": 33,
+          "lowestPrice": 0,
+          "refPeriod": "0319",
+          "launchedInMonth": 0
+        }
+      ],
+      "district": "09",
+      "y": "31321.084215810001",
+      "x": "27909.710139860001"
+    },
+    {
+      "project": "MEYERHOUSE",
+      "propertyType": "Non-Landed",
+      "marketSegment": "RCR",
+      "developer": "Secure Venture Development (N0.1) Pte Ltd",
+      "street": "MEYER ROAD",
+      "developerSales": [
+        {
+          "highestPrice": 0,
+          "soldToDate": 0,
+          "unitsAvail": 56,
+          "medianPrice": 0,
+          "soldInMonth": 0,
+          "launchedToDate": 0,
+          "lowestPrice": 0,
+          "refPeriod": "0319",
+          "launchedInMonth": 0
+        }
+      ],
+      "district": "15"
+    },
+    {
+      "project": "ARENA RESIDENCES",
+      "propertyType": "Non-Landed",
+      "marketSegment": "RCR",
+      "developer": "RH Guillemard Pte Ltd",
+      "street": "GUILLEMARD CRESCENT",
+      "developerSales": [
+        {
+          "highestPrice": 1947,
+          "soldToDate": 50,
+          "unitsAvail": 98,
+          "medianPrice": 1826,
+          "soldInMonth": 4,
+          "launchedToDate": 70,
+          "lowestPrice": 1756,
+          "refPeriod": "0319",
+          "launchedInMonth": 0
+        }
+      ],
+      "district": "14"
+    },
+    {
+      "project": "SIXTEEN35 RESIDENCES",
+      "propertyType": "Non-Landed",
+      "marketSegment": "RCR",
+      "developer": "Oxley Pearl Pte Ltd",
+      "street": "LORONG 35 GEYLANG",
+      "developerSales": [
+        {
+          "highestPrice": 0,
+          "soldToDate": 60,
+          "unitsAvail": 60,
+          "medianPrice": 0,
+          "soldInMonth": 0,
+          "launchedToDate": 60,
+          "lowestPrice": 0,
+          "refPeriod": "0319",
+          "launchedInMonth": 0
+        }
+      ],
+      "district": "14",
+      "y": "33110.834156510002",
+      "x": "34191.80527884"
+    },
+    {
+      "project": "WATERCOVE",
+      "propertyType": "Strata-Landed",
+      "marketSegment": "OCR",
+      "developer": "Sembawang Estates (Pte) Ltd",
+      "street": "WAK HASSAN DRIVE",
+      "developerSales": [
+        {
+          "highestPrice": 669,
+          "soldToDate": 70,
+          "unitsAvail": 80,
+          "medianPrice": 669,
+          "soldInMonth": 1,
+          "launchedToDate": 74,
+          "lowestPrice": 669,
+          "refPeriod": "0319",
+          "launchedInMonth": 0
+        }
+      ],
+      "district": "27",
+      "y": "49229.573427350001",
+      "x": "28694.292862279998"
+    },
+    {
+      "project": "RIVERCOVE RESIDENCES",
+      "propertyType": "Exec Condo",
+      "marketSegment": "OCR",
+      "developer": "Hoi Hup Sunway Sengkang Pte Ltd",
+      "street": "ANCHORVALE LANE",
+      "developerSales": [
+        {
+          "highestPrice": 957,
+          "soldToDate": 620,
+          "unitsAvail": 628,
+          "medianPrice": 957,
+          "soldInMonth": 1,
+          "launchedToDate": 628,
+          "lowestPrice": 957,
+          "refPeriod": "0319",
+          "launchedInMonth": 0
+        }
+      ],
+      "district": "19"
+    },
+    {
+      "project": "120 GRANGE",
+      "propertyType": "Non-Landed",
+      "marketSegment": "CCR",
+      "developer": "RH Orchard Pte Ltd",
+      "street": "GRANGE ROAD",
+      "developerSales": [
+        {
+          "highestPrice": 0,
+          "soldToDate": 45,
+          "unitsAvail": 56,
+          "medianPrice": 0,
+          "soldInMonth": 0,
+          "launchedToDate": 50,
+          "lowestPrice": 0,
+          "refPeriod": "0319",
+          "launchedInMonth": 0
+        }
+      ],
+      "district": "10",
+      "y": "31375.71455257",
+      "x": "27144.33328099"
+    },
+    {
+      "project": "JUI RESIDENCES",
+      "propertyType": "Non-Landed",
+      "marketSegment": "RCR",
+      "developer": "Tiara Land Pte Ltd",
+      "street": "SERANGOON ROAD",
+      "developerSales": [
+        {
+          "highestPrice": 1841,
+          "soldToDate": 50,
+          "unitsAvail": 117,
+          "medianPrice": 1669,
+          "soldInMonth": 3,
+          "launchedToDate": 117,
+          "lowestPrice": 1659,
+          "refPeriod": "0319",
+          "launchedInMonth": 0
+        }
+      ],
+      "district": "12",
+      "y": "34299.875639040003",
+      "x": "31654.44299275"
+    },
+    {
+      "project": "ONE DRAYCOTT",
+      "propertyType": "Non-Landed",
+      "marketSegment": "CCR",
+      "developer": "Champsworth Development Pte Ltd",
+      "street": "DRAYCOTT PARK",
+      "developerSales": [
+        {
+          "highestPrice": 0,
+          "soldToDate": 3,
+          "unitsAvail": 64,
+          "medianPrice": 0,
+          "soldInMonth": 0,
+          "launchedToDate": 64,
+          "lowestPrice": 0,
+          "refPeriod": "0319",
+          "launchedInMonth": 0
+        }
+      ],
+      "district": "10",
+      "y": "32493.294249200001",
+      "x": "27705.684730290001"
+    },
+    {
+      "project": "HARBOUR VIEW GARDENS",
+      "propertyType": "Non-Landed",
+      "marketSegment": "RCR",
+      "developer": "RH Developments Pte Ltd",
+      "street": "PASIR PANJANG ROAD",
+      "developerSales": [
+        {
+          "highestPrice": 0,
+          "soldToDate": 56,
+          "unitsAvail": 57,
+          "medianPrice": 0,
+          "soldInMonth": 0,
+          "launchedToDate": 57,
+          "lowestPrice": 0,
+          "refPeriod": "0319",
+          "launchedInMonth": 0
+        }
+      ],
+      "district": "05",
+      "y": "29064.256643239999",
+      "x": "22608.559823519999"
+    },
+    {
+      "project": "38 JERVOIS",
+      "propertyType": "Non-Landed",
+      "marketSegment": "CCR",
+      "developer": "Prominent @ Jervois Pte. Ltd.",
+      "street": "JERVOIS ROAD",
+      "developerSales": [
+        {
+          "highestPrice": 0,
+          "soldToDate": 10,
+          "unitsAvail": 27,
+          "medianPrice": 0,
+          "soldInMonth": 0,
+          "launchedToDate": 27,
+          "lowestPrice": 0,
+          "refPeriod": "0319",
+          "launchedInMonth": 0
+        }
+      ],
+      "district": "10",
+      "y": "30709.044900410002",
+      "x": "26829.549665819999"
+    },
+    {
+      "project": "THE TAPESTRY",
+      "propertyType": "Non-Landed",
+      "marketSegment": "OCR",
+      "developer": "Bellevue Properties Pte Ltd",
+      "street": "TAMPINES STREET 86",
+      "developerSales": [
+        {
+          "highestPrice": 1529,
+          "soldToDate": 612,
+          "unitsAvail": 861,
+          "medianPrice": 1318,
+          "soldInMonth": 30,
+          "launchedToDate": 700,
+          "lowestPrice": 1159,
+          "refPeriod": "0319",
+          "launchedInMonth": 0
+        }
+      ],
+      "district": "18"
+    },
+    {
+      "project": "MARINA ONE RESIDENCES",
+      "propertyType": "Non-Landed",
+      "marketSegment": "CCR",
+      "developer": "MS Residential1 Pte Ltd/MS Residential 2 Pte Ltd/Ms Commercial Pte Ltd ",
+      "street": "MARINA WAY",
+      "developerSales": [
+        {
+          "highestPrice": 3034,
+          "soldToDate": 573,
+          "unitsAvail": 1042,
+          "medianPrice": 2580,
+          "soldInMonth": 10,
+          "launchedToDate": 671,
+          "lowestPrice": 2152,
+          "refPeriod": "0319",
+          "launchedInMonth": 50
+        }
+      ],
+      "district": "01",
+      "y": "28862.801",
+      "x": "30258.7811"
+    },
+    {
+      "project": "AMBER 45",
+      "propertyType": "Non-Landed",
+      "marketSegment": "RCR",
+      "developer": "UOL Development (Amber) Pte Ltd",
+      "street": "AMBER ROAD",
+      "developerSales": [
+        {
+          "highestPrice": 0,
+          "soldToDate": 99,
+          "unitsAvail": 139,
+          "medianPrice": 0,
+          "soldInMonth": 0,
+          "launchedToDate": 120,
+          "lowestPrice": 0,
+          "refPeriod": "0319",
+          "launchedInMonth": 20
+        }
+      ],
+      "district": "15",
+      "y": "31683.037938530002",
+      "x": "35635.450328580001"
+    },
+    {
+      "project": "JADESCAPE",
+      "propertyType": "Non-Landed",
+      "marketSegment": "RCR",
+      "developer": "Qingjian Realty (Marymount) Pte Ltd",
+      "street": "SHUNFU ROAD",
+      "developerSales": [
+        {
+          "highestPrice": 1827,
+          "soldToDate": 385,
+          "unitsAvail": 1206,
+          "medianPrice": 1686,
+          "soldInMonth": 11,
+          "launchedToDate": 480,
+          "lowestPrice": 1543,
+          "refPeriod": "0319",
+          "launchedInMonth": 0
+        }
+      ],
+      "district": "20"
+    },
+    {
+      "project": "THE ENCLAVE . HOLLAND",
+      "propertyType": "Non-Landed",
+      "marketSegment": "CCR",
+      "developer": "Three Sixty-Nine Development Pte Ltd",
+      "street": "HOLLAND ROAD",
+      "developerSales": [
+        {
+          "highestPrice": 0,
+          "soldToDate": 10,
+          "unitsAvail": 26,
+          "medianPrice": 0,
+          "soldInMonth": 0,
+          "launchedToDate": 10,
+          "lowestPrice": 0,
+          "refPeriod": "0319",
+          "launchedInMonth": 0
+        }
+      ],
+      "district": "10",
+      "y": "32717.6761026",
+      "x": "24184.20081998"
+    },
+    {
+      "project": "BOULEVARD 88",
+      "propertyType": "Non-Landed",
+      "marketSegment": "CCR",
+      "developer": "Granmil Holdings Pte Ltd",
+      "street": "ORCHARD BOULEVARD",
+      "developerSales": [
+        {
+          "highestPrice": 4927,
+          "soldToDate": 26,
+          "unitsAvail": 154,
+          "medianPrice": 3613,
+          "soldInMonth": 26,
+          "launchedToDate": 35,
+          "lowestPrice": 3301,
+          "refPeriod": "0319",
+          "launchedInMonth": 35
+        }
+      ],
+      "district": "10"
+    },
+    {
+      "project": "SEASUITES",
+      "propertyType": "Non-Landed",
+      "marketSegment": "RCR",
+      "developer": "Link (THM) Greenleaf Pte Ltd",
+      "street": "PASIR PANJANG ROAD",
+      "developerSales": [
+        {
+          "highestPrice": 0,
+          "soldToDate": 50,
+          "unitsAvail": 52,
+          "medianPrice": 0,
+          "soldInMonth": 0,
+          "launchedToDate": 52,
+          "lowestPrice": 0,
+          "refPeriod": "0319",
+          "launchedInMonth": 0
+        }
+      ],
+      "district": "05",
+      "y": "29434.351824919999",
+      "x": "22433.04128066"
+    },
+    {
+      "project": "KALLANG RIVERSIDE",
+      "propertyType": "Non-Landed",
+      "marketSegment": "RCR",
+      "developer": "The Singapore-Johore Express Pte Ltd",
+      "street": "KAMPONG BUGIS",
+      "developerSales": [
+        {
+          "highestPrice": 0,
+          "soldToDate": 199,
+          "unitsAvail": 212,
+          "medianPrice": 0,
+          "soldInMonth": 0,
+          "launchedToDate": 212,
+          "lowestPrice": 0,
+          "refPeriod": "0319",
+          "launchedInMonth": 0
+        }
+      ],
+      "district": "12",
+      "y": "32160.193364170001",
+      "x": "31738.620380759999"
+    },
+    {
+      "project": "STIRLING RESIDENCES",
+      "propertyType": "Non-Landed",
+      "marketSegment": "RCR",
+      "developer": "LN Development (Stirling) Pte Ltd",
+      "street": "STIRLING ROAD",
+      "developerSales": [
+        {
+          "highestPrice": 2146,
+          "soldToDate": 598,
+          "unitsAvail": 1259,
+          "medianPrice": 1772,
+          "soldInMonth": 45,
+          "launchedToDate": 680,
+          "lowestPrice": 1544,
+          "refPeriod": "0319",
+          "launchedInMonth": 0
+        }
+      ],
+      "district": "03"
+    },
+    {
+      "project": "THE TRE VER",
+      "propertyType": "Non-Landed",
+      "marketSegment": "RCR",
+      "developer": "UVD (Projects) Pte Ltd",
+      "street": "POTONG PASIR AVENUE 1",
+      "developerSales": [
+        {
+          "highestPrice": 1704,
+          "soldToDate": 438,
+          "unitsAvail": 729,
+          "medianPrice": 1602,
+          "soldInMonth": 131,
+          "launchedToDate": 450,
+          "lowestPrice": 1497,
+          "refPeriod": "0319",
+          "launchedInMonth": 100
+        }
+      ],
+      "district": "13"
+    },
+    {
+      "project": "PERMAI RESIDENCES",
+      "propertyType": "Non-Landed",
+      "marketSegment": "RCR",
+      "developer": "Popular Land Investment Pte Ltd",
+      "street": "KAMPONG BAHRU ROAD",
+      "developerSales": [
+        {
+          "highestPrice": 0,
+          "soldToDate": 0,
+          "unitsAvail": 17,
+          "medianPrice": 0,
+          "soldInMonth": 0,
+          "launchedToDate": 0,
+          "lowestPrice": 0,
+          "refPeriod": "0319",
+          "launchedInMonth": 0
+        }
+      ],
+      "district": "04",
+      "y": "28276.555615409999",
+      "x": "27325.27521875"
+    },
+    {
+      "project": "3 CUSCADEN",
+      "propertyType": "Non-Landed",
+      "marketSegment": "CCR",
+      "developer": "SL Capital (2) Pte Ltd",
+      "street": "CUSCADEN WALK",
+      "developerSales": [
+        {
+          "highestPrice": 3968,
+          "soldToDate": 35,
+          "unitsAvail": 96,
+          "medianPrice": 3674,
+          "soldInMonth": 6,
+          "launchedToDate": 96,
+          "lowestPrice": 3359,
+          "refPeriod": "0319",
+          "launchedInMonth": 0
+        }
+      ],
+      "district": "10",
+      "y": "31822.377366920001",
+      "x": "27571.019145600001"
+    },
+    {
+      "project": "PARKSUITES",
+      "propertyType": "Non-Landed",
+      "marketSegment": "CCR",
+      "developer": "Kentish View Pte Ltd/Lucky Pinnacle Pte Ltd",
+      "street": "HOLLAND GROVE ROAD",
+      "developerSales": [
+        {
+          "highestPrice": 0,
+          "soldToDate": 17,
+          "unitsAvail": 119,
+          "medianPrice": 0,
+          "soldInMonth": 0,
+          "launchedToDate": 50,
+          "lowestPrice": 0,
+          "refPeriod": "0319",
+          "launchedInMonth": 0
+        }
+      ],
+      "district": "10",
+      "y": "33238.310992360002",
+      "x": "22393.243375679998"
+    },
+    {
+      "project": "CASA AL MARE",
+      "propertyType": "Non-Landed",
+      "marketSegment": "OCR",
+      "developer": "SL Capital (4) Pte Ltd",
+      "street": "JALAN LOYANG BESAR",
+      "developerSales": [
+        {
+          "highestPrice": 0,
+          "soldToDate": 11,
+          "unitsAvail": 49,
+          "medianPrice": 0,
+          "soldInMonth": 0,
+          "launchedToDate": 49,
+          "lowestPrice": 0,
+          "refPeriod": "0319",
+          "launchedInMonth": 0
+        }
+      ],
+      "district": "17"
+    },
+    {
+      "project": "BUKIT 828",
+      "propertyType": "Non-Landed",
+      "marketSegment": "OCR",
+      "developer": "RH Capital Pte Ltd",
+      "street": "UPPER BUKIT TIMAH ROAD",
+      "developerSales": [
+        {
+          "highestPrice": 1599,
+          "soldToDate": 9,
+          "unitsAvail": 34,
+          "medianPrice": 1599,
+          "soldInMonth": 1,
+          "launchedToDate": 17,
+          "lowestPrice": 1599,
+          "refPeriod": "0319",
+          "launchedInMonth": 0
+        }
+      ],
+      "district": "23",
+      "y": "39525.506924689997",
+      "x": "20181.165862530002"
+    },
+    {
+      "project": "8 HULLET",
+      "propertyType": "Non-Landed",
+      "marketSegment": "CCR",
+      "developer": "Hullet Development Pte Ltd",
+      "street": "HULLET ROAD",
+      "developerSales": [
+        {
+          "highestPrice": 0,
+          "soldToDate": 35,
+          "unitsAvail": 44,
+          "medianPrice": 0,
+          "soldInMonth": 0,
+          "launchedToDate": 44,
+          "lowestPrice": 0,
+          "refPeriod": "0319",
+          "launchedInMonth": 0
+        }
+      ],
+      "district": "09",
+      "y": "31708.596722709999",
+      "x": "28609.3276881"
+    },
+    {
+      "project": "MONT BOTANIK RESIDENCE",
+      "propertyType": "Non-Landed",
+      "marketSegment": "OCR",
+      "developer": "Episcia Land Pte Ltd",
+      "street": "JALAN REMAJA",
+      "developerSales": [
+        {
+          "highestPrice": 0,
+          "soldToDate": 6,
+          "unitsAvail": 108,
+          "medianPrice": 0,
+          "soldInMonth": 0,
+          "launchedToDate": 54,
+          "lowestPrice": 0,
+          "refPeriod": "0319",
+          "launchedInMonth": 0
+        }
+      ],
+      "district": "23"
+    },
+    {
+      "project": "MARGARET VILLE",
+      "propertyType": "Non-Landed",
+      "marketSegment": "RCR",
+      "developer": "MCL Land (Regency) Pte Ltd",
+      "street": "MARGARET DRIVE",
+      "developerSales": [
+        {
+          "highestPrice": 2029,
+          "soldToDate": 160,
+          "unitsAvail": 309,
+          "medianPrice": 1761,
+          "soldInMonth": 10,
+          "launchedToDate": 188,
+          "lowestPrice": 1676,
+          "refPeriod": "0319",
+          "launchedInMonth": 30
+        }
+      ],
+      "district": "03"
+    },
+    {
+      "project": "BIJOU",
+      "propertyType": "Non-Landed",
+      "marketSegment": "RCR",
+      "developer": "JU-I Properties Pte. Ltd.",
+      "street": "JALAN MAT JAMBOL",
+      "developerSales": [
+        {
+          "highestPrice": 1956,
+          "soldToDate": 79,
+          "unitsAvail": 120,
+          "medianPrice": 1956,
+          "soldInMonth": 1,
+          "launchedToDate": 120,
+          "lowestPrice": 1956,
+          "refPeriod": "0319",
+          "launchedInMonth": 0
+        }
+      ],
+      "district": "05",
+      "y": "28819.132",
+      "x": "23366.6919"
+    },
+    {
+      "project": "THE WOODLEIGH RESIDENCES",
+      "propertyType": "Non-Landed",
+      "marketSegment": "RCR",
+      "developer": "The Woodleigh Mall Pte Ltd/The Woodleigh Residences Pte Ltd",
+      "street": "BIDADARI PARK DRIVE",
+      "developerSales": [
+        {
+          "highestPrice": 0,
+          "soldToDate": 27,
+          "unitsAvail": 667,
+          "medianPrice": 0,
+          "soldInMonth": 0,
+          "launchedToDate": 50,
+          "lowestPrice": 0,
+          "refPeriod": "0319",
+          "launchedInMonth": 0
+        }
+      ],
+      "district": "13"
+    },
+    {
+      "project": "THE OCTET",
+      "propertyType": "Non-Landed",
+      "marketSegment": "RCR",
+      "developer": "Osmo Capital Pte Ltd",
+      "street": "LORONG 24 GEYLANG",
+      "developerSales": [
+        {
+          "highestPrice": 0,
+          "soldToDate": 55,
+          "unitsAvail": 56,
+          "medianPrice": 0,
+          "soldInMonth": 0,
+          "launchedToDate": 56,
+          "lowestPrice": 0,
+          "refPeriod": "0319",
+          "launchedInMonth": 0
+        }
+      ],
+      "district": "14",
+      "y": "32713.618357060001",
+      "x": "33596.102744579997"
+    },
+    {
+      "project": "PARK COLONIAL",
+      "propertyType": "Non-Landed",
+      "marketSegment": "RCR",
+      "developer": "CEL Unique Development Pte Ltd",
+      "street": "WOODLEIGH LANE",
+      "developerSales": [
+        {
+          "highestPrice": 2034,
+          "soldToDate": 580,
+          "unitsAvail": 805,
+          "medianPrice": 1828,
+          "soldInMonth": 11,
+          "launchedToDate": 805,
+          "lowestPrice": 1429,
+          "refPeriod": "0319",
+          "launchedInMonth": 0
+        }
+      ],
+      "district": "13"
+    }
+  ],
+  "Status": "Success"
+}
